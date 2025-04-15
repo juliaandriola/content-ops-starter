@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home Care
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: 'Equipe de enfermagem, fisioterapia, nutrição, psicologia em casa'
   socialImage: /images/Story para Instagram Dia do Idoso.png
   type: Seo
 type: PageLayout
