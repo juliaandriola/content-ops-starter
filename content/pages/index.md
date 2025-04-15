@@ -39,7 +39,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: saúde em casa
+      label: home care
       color: text-primary
       type: Badge
     elementId: ''
