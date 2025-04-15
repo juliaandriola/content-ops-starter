@@ -744,7 +744,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Home Care
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/Story para Instagram Dia do Idoso.png
   type: Seo
