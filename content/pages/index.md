@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: >-
-        Enfermagem, fisioterapia, nutrição, psicologia e profissionais
+        Enfermagem, fisioterapia, nutrição, psicologia e profissionais de saúde
         especializados em casa!
       color: text-dark
       type: TitleBlock
